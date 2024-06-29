@@ -1,0 +1,32 @@
+js runs client side 
+js dynamically type programming language
+
+//var let const
+
+//var global scope
+//let block scope    :
+//const block scope  : reassign not possible
+
+html:
+
+//datatype
+
+number
+string
+boolean
+undefined
+null
+object
+
+if else switch for while do while operator
+
+json
+javascript object notation
+
+//udf pre define
+
+with function keyword
+arrow function define
+
+
+
