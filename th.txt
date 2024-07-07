@@ -28,5 +28,16 @@ javascript object notation
 with function keyword
 arrow function define
 
+splice
+some :
+every :
+filter :
+map :
+forEach :
+indexOf :
+lastIndexOf :
+reverse
+sort
+
 
 
